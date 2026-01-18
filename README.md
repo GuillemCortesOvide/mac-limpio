@@ -13,7 +13,7 @@ chmod +x mac-limpio.sh
 3) Ejecútalo:
 
 ```bash
-./safe-mac-cleanup.sh review
+./mac-limpio.sh review
 ```
 
 **Alternativa (sin `chmod`)**:
