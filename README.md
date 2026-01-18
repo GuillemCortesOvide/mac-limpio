@@ -29,7 +29,6 @@ Si macOS bloquea el archivo por haber sido descargado de Internet, puedes quitar
 xattr -d com.apple.quarantine mac-limpio.sh
 ```
 
----
 
 ### 🇬🇧 English (macOS / Linux)
 
@@ -60,7 +59,6 @@ If macOS blocks the file because it was downloaded from the Internet, remove the
 xattr -d com.apple.quarantine safe-mac-cleanup.sh
 ```
 
----
 
 📄 Licencia / License
 
